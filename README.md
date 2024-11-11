@@ -7,7 +7,7 @@ This web application enables users to submit and categorize interview questions,
 
 ## Features
 - Question Submission: Users can submit questions related to different interview categories.
-- Categories: Questions can be tagged and filtered by category, such as "Technical," "Behavioral," or "Culture Fit."
+- Categories: Questions can be tagged and filtered by category, such as "Technical" or "Culture Fit".
 - User Accounts: Registered users manage their submissions and account.
 
 ## Live Demo
