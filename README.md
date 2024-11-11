@@ -13,7 +13,7 @@ This web application enables users to submit and categorize interview questions,
 ## Live Demo
 To see the application in action, check out the live version:
 
-[bhuggettiAPI](aust21.pythonanaywhere.com)
+[bhuggettiAPI]([aust21.pythonanaywhere.com](https://aust21.pythonanywhere.com/))
 
 ## Technologies Used
 - Backend: Flask for handling requests and database interactions
